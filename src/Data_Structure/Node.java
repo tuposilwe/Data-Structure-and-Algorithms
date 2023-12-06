@@ -1,2 +1,8 @@
-package Data_Structure;public class Node {
+package Data_Structure;
+
+public class Node {
+    char data;
+    Node(char data){
+        this.data = data;
+    }
 }
